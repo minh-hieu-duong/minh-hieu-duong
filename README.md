@@ -23,10 +23,10 @@
     <img src="https://api.iconify.design/mdi/docker.svg" alt="mdi:docker" height="40" />
 </div>
 <div align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&border=true&type=horizontal" alt="" />
+    <img src="https://count.getloli.com/get/@pth-1641?theme=rule34" />
 </div>
 <div align="center">
-    <img src="https://count.getloli.com/get/@pth-1641?theme=rule34" />
+      <img src="https://quotes-github-readme.vercel.app/api?theme=nord&border=true&type=horizontal" alt="" />
 </div>
 <div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
     <img width="10" />

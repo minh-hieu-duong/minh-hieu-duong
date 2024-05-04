@@ -22,19 +22,13 @@
     <img width="10" />
     <img src="https://api.iconify.design/mdi/docker.svg" alt="mdi:docker" height="40" />
 </div>
-<h1 align="left">
-    AWESOME.md
-</h1>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pth-1641&theme=tokyonight&hide_border=true&show_icons=true&hide_title=false&disable_animations=false&hide_rank=false&rank_icon=default&hide=&show=&locale=EN" />
-</div>
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=pth-1641&theme=tokyonight&hide_border=true&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&mode=daily&locale=EN" />
+      <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight&border=true&type=horizontal" alt="" />
 </div>
 <div align="center">
     <img src="https://count.getloli.com/get/@pth-1641?theme=rule34" />
 </div>
-<div align="left"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
+<div align="center"><img src="https://api.iconify.design/logos/facebook.svg" alt="logos:facebook" height="40" />
     <img width="10" />
     <img src="https://api.iconify.design/devicon/linkedin.svg" alt="devicon:linkedin" height="40" />
     <img width="10" />
